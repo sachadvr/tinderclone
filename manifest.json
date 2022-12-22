@@ -1,0 +1,11 @@
+{
+    "name": "Tinder'Clone",
+    "short_name": "Tindour",
+    "version": "2.1.2",
+    "author": "sachadvr",
+    "start_url": "index.php",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#000000",
+    "orientation": "portrait-primary"
+  }
